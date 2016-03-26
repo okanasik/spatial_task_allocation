@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scenario:scenario xmlns:scenario="urn:roborescue:map:scenario">
+  <scenario:fire scenario:location="943"/>
+  <scenario:fire scenario:location="253"/>
+  <scenario:fire scenario:location="942"/>
+  <scenario:fire scenario:location="953"/>
+  <scenario:fire scenario:location="938"/>
+  <scenario:fire scenario:location="298"/>
+  <scenario:fire scenario:location="944"/>
+  <scenario:firebrigade scenario:location="917"/>
+  <scenario:firebrigade scenario:location="912"/>
+  <scenario:firebrigade scenario:location="929"/>
+  <scenario:firebrigade scenario:location="912"/>
+  <scenario:firebrigade scenario:location="274"/>
+  <scenario:firebrigade scenario:location="974"/>
+  <scenario:firebrigade scenario:location="259"/>
+  <scenario:firebrigade scenario:location="257"/>
+  <scenario:firestation scenario:location="248"/>
+</scenario:scenario>
